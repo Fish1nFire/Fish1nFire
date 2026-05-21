@@ -23,7 +23,7 @@
 ## 🚀 项目展示
 
 ### 📚 学习实践项目
-- **智能学习辅助系统（demo）** 涵盖基础的增删改查功能 | [代码](link)
+- **智能学习辅助系统（demo）** 涵盖基础的增删改查功能 | [代码仓库](https://github.com/Fish1nFire/tlias-management)
   
 ### 🤖 Agent 相关项目
 - 努力中
